@@ -1,0 +1,14 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "my first json ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpan Arsh",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.8.1"
+  }
+}
